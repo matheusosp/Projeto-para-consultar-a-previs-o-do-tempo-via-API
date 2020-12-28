@@ -1,4 +1,9 @@
-# JvWeather
+### Descrição
+
+- Laboratório para implementar um projeto para consultar a previsão do tempo via API utilizando o site https://openweathermap.org/:
+  1. Utilizado Angular para o fron-end.
+  2. implementação do ngrx.
+  3. Utilizado API do Open Weather para informar os dados reais da previsão do tempo.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
