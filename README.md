@@ -1,3 +1,5 @@
+![Foo](https://raw.githubusercontent.com/matheusosp/Projeto-para-consultar-a-previsao-do-tempo-via-API/main/JvWeather%20-%20Google%20Chrome.jpg)
+
 # Descrição
 
 - Projeto para consultar a previsão do tempo via API utilizando o site https://openweathermap.org/:
