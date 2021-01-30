@@ -4,6 +4,7 @@
   1. Utilizado Angular para o front-end.
   2. implementação do ngrx.
   3. Utilizado API do Open Weather para informar os dados reais da previsão do tempo.
+  4. AutoComplete
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
