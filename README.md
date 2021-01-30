@@ -1,7 +1,7 @@
 # Descrição
 
-- Laboratório para implementar um projeto para consultar a previsão do tempo via API utilizando o site https://openweathermap.org/:
-  1. Utilizado Angular para o fron-end.
+- Projeto para consultar a previsão do tempo via API utilizando o site https://openweathermap.org/:
+  1. Utilizado Angular para o front-end.
   2. implementação do ngrx.
   3. Utilizado API do Open Weather para informar os dados reais da previsão do tempo.
 
